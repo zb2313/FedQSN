@@ -27,4 +27,5 @@ tains strong model performance in federated
 learning settings but also achieves enhanced
 protection of model parameters compared to
 baseline methods.
+
 ![main_graph](source/main.png)
